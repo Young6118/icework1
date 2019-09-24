@@ -33,7 +33,7 @@
     "eslint": "eslint --cache --ext .js,.jsx ./",
     "stylelint": "stylelint ./**/*.scss",
     "pregh": "ice-scripts build",
-    "gh": "gh-pages -d dist"
+    "gh": "gh-pages -d build"
   },
   "engines": {
     "node": ">=8.0.0"
